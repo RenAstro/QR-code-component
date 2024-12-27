@@ -19,7 +19,8 @@ body{
     height: 440px;
     flex-flow: row wrap;
     background-color:hsl(0, 0%, 100%);
-    margin-top: 2vh;
+    margin-top: 10vh;
+    margin-bot: 10vh;
     border-radius: 15px;
     align-content: space-evenly;
     justify-content: center;
